@@ -69,3 +69,4 @@ teorik bilgiler uygulamaya dönüştürülmüştür.
 
 Proje, ilerleyen dönemlerde alınacak olan bilgisayar mimarisi ve dijital  
 devreler dersleri için sağlam bir temel oluşturmaktadır.
+https://youtu.be/0eXIfUnvKnQ
